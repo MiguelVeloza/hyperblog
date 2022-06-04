@@ -1,6 +1,5 @@
-pequeña hisotyia de ejemplo para comprobar cosas de la vida relacionadas
- aa git
- el sistema contrlador de versiones que usan los 
- programadores en todo el mundo
+historia de ejemplo para comprobar cosas de la vida relacionadas
+a git
+el sistema contrlador de versiones que usan los 
+programadores en todo el mundo
  
- Ademas podremos ver las distinciones y cosas relacionadas que deberemos mejorar
